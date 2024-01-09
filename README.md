@@ -1,2 +1,6 @@
 ## TODO_App
-It is a To-do app that I made using Kotlin in this app I also used Room Storage so that data can be saved. You can see explanation of this project on my YouTube channel.
+Hello everyone, I Created A To-Do App using Kotlin
+### Pre-requisites
+* Android Studio android-studio-3.0
+* Make sure Android Studio is updated, as well as your SDK and Gradle
+* Languages - Kotlin
